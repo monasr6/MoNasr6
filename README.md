@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Nasr</h1>
 <h3 align="center">A Competitive Programmer - Computer Engineering student - Web developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/AnimatedAggravatingBarb-size_restricted.gif">
+<!--<img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/AnimatedAggravatingBarb-size_restricted.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monasr6&label=Profile%20views&color=0e75b6&style=flat" alt="monasr6" /> </p>
 
