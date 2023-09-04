@@ -19,13 +19,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/monasr6" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="monasr6" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:21040081" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" alt="user:21040081" height="30" width="40" /></a>
-<a href="https://kaggle.com/mohamednasrrady" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="mohamednasrrady" height="30" width="40" /></a>
+<!-- <a href="https://stackoverflow.com/users/user:21040081" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" alt="user:21040081" height="30" width="40" /></a> -->
+<!-- <a href="https://kaggle.com/mohamednasrrady" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="mohamednasrrady" height="30" width="40" /></a> -->
 <a href="https://www.codechef.com/users/monasr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="monasr" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mahamednasr6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mahamednasr6" height="30" width="40" /></a>
+<!-- <a href="https://www.hackerrank.com/mahamednasr6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mahamednasr6" height="30" width="40" /></a> -->
 <a href="https://codeforces.com/profile/monasr" target="blank"><img align="center" src="https://codeforces.org/s/0/favicon-96x96.png" alt="monasr" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/monasr" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="monasr" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/monasr6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="monasr6" height="30" width="40" /></a>
+<!-- <a href="https://auth.geeksforgeeks.org/user/monasr6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="monasr6" height="30" width="40" /></a> -->
 <a href="https://www.topcoder.com/members/monasr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="monasr" height="30" width="40" /></a>
 </p>
 
