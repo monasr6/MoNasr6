@@ -1,40 +1,42 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-    <h1 align="center">Hi 👋, I'm Mohamed Nasr</h1>
-<h3 align="center">A Competitive Programmer - Computer Engineering student - Web developer</h3>
+# Hi 👋, I'm Mohamed Nasr
 
-<!--<img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/AnimatedAggravatingBarb-size_restricted.gif"> -->
+## Back-End Developer | DevOps Enthusiast
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=monasr6&label=Profile%20views&color=0e75b6&style=flat" alt="monasr6" /> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=monasr6&label=Profile%20views&color=0e75b6&style=flat)
 
-- 📫 How to reach me **https://www.linkedin.com/in/monasr6/**
+- 🔭 I have successfully completed my **Inteliview** project, a sophisticated web platform for mock interviews.
+- 🌱 I’m currently learning **NestJS** and **AWS**.
+- 👯 I’m looking to collaborate on **Open Source Projects**.
+- 🤔 I’m looking for help with **DevOps Practices**.
+- 💬 Ask me about **Back-End Development, Node.js, .NET Core**.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/monasr6/)
+- 💼 I am open for work or internship opportunities.
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/monasr6" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="monasr6" height="30" width="40" /></a>
-<!-- <a href="https://stackoverflow.com/users/user:21040081" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" alt="user:21040081" height="30" width="40" /></a> -->
-<!-- <a href="https://kaggle.com/mohamednasrrady" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="mohamednasrrady" height="30" width="40" /></a> -->
-<a href="https://www.codechef.com/users/monasr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="monasr" height="30" width="40" /></a>
-<!-- <a href="https://www.hackerrank.com/mahamednasr6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mahamednasr6" height="30" width="40" /></a> -->
-<a href="https://codeforces.com/profile/monasr" target="blank"><img align="center" src="https://codeforces.org/s/0/favicon-96x96.png" alt="monasr" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/monasr" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="monasr" height="30" width="40" /></a>
-<!-- <a href="https://auth.geeksforgeeks.org/user/monasr6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="monasr6" height="30" width="40" /></a> -->
-<a href="https://www.topcoder.com/members/monasr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="monasr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/monasr6" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="20" width="20" /></a>
+<a href="https://www.codechef.com/users/monasr" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="20" width="20" /></a>
+<a href="https://codeforces.com/profile/monasr" target="blank"><img src="https://codeforces.org/s/0/favicon-96x96.png" alt="Codeforces" height="20" width="20" /></a>
+<a href="https://www.leetcode.com/monasr" target="blank"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="LeetCode" height="20" width="20" /></a>
+<a href="https://www.topcoder.com/members/monasr" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="TopCoder" height="20" width="20" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Languages and Tools:
+<p align="left">
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="30" height="30"/> </a>
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="30" height="30"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="30" height="30"/> </a>
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="30" height="30"/> </a>
+<a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://nestjs.com/img/logo_text.svg" alt="NestJS" width="80" height="30"/> </a>
+</p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monasr6&show_icons=true&locale=en&layout=compact" alt="monasr6" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monasr6&show_icons=true&locale=en" alt="monasr6" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monasr6&" alt="monasr6" /></p> -->
-</body>
-</html>
+### Projects:
+- [Intelliview](https://github.com/Osama-Elzekred/IntelliView) - A platform for mock interviews using Node.js, Express, MongoDB, and more.
+- [Natours Project](https://github.com/monasr6/Natours) - A tour booking website with user authentication and payment systems.
+- [Task-Management](https://github.com/monasr6/Task-Management) - A task management system built with NestJS.
+- [Done App](https://github.com/monasr6/IsDone) - An app for tracking watched or opened files using Python.
+- [Library Management System](https://github.com/monasr6/Library-System-Spring) - A Spring Boot-based API for managing library resources.
+- [Spotify API Clone](https://github.com/monasr6/Spotify-API) - A clone of Spotify API using NestJS.
