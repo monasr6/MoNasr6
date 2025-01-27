@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **NestJS** and **AWS**.
 - 👯 I’m looking to collaborate on **Open Source Projects**.
 - 🤔 I’m looking for help with **DevOps Practices**.
-- 💬 Ask me about **Back-End Development, Node.js, .NET Core**.
+- 💬 Ask me about **Back-End Development, Node.js, Django**.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/monasr6/)
 - 💼 I am open for work or internship opportunities.
 
